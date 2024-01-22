@@ -8,3 +8,4 @@ See also ongoing projects in their own repositories:
 
   - [MOLE POWER FANTASY](https://github.com/nqpz/mole-power-fantasy)
   - [You Get Somewhat Stressed When Going Shopping](https://github.com/nqpz/supermarket)
+  - [You Want](https://github.com/nqpz/youwant)
