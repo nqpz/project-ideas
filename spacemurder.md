@@ -1,3 +1,7 @@
+---
+type: game
+---
+
 # SPACE MURDER
 
 ![Logo](images/spacemurder.png)
